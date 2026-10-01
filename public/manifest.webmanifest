@@ -2,11 +2,11 @@
   "name": "Homework Scan",
   "short_name": "HW Scan",
   "description": "Turn homework photos into a clean PDF on your device.",
-  "start_url": "/",
+  "start_url": ".",
   "display": "standalone",
   "background_color": "#f4f0e8",
   "theme_color": "#f4f0e8",
   "icons": [
-    { "src": "/icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any maskable" }
+    { "src": "./icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any maskable" }
   ]
 }
